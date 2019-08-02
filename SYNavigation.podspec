@@ -18,8 +18,7 @@ s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'sean.yang' => '272789124@qq.com' }
 s.source           = { :git => 'https://github.com/yanghl/SYNavigation.git', :tag => s.version.to_s }
 s.ios.deployment_target = '9.0'
-s.source_files = 'SYNavigation/Classes/**/*.{h,c,m,swift}'
-s.resources = 'SYNavigation/Classes/**/*.{xib,nib,plist}'
+s.source_files = 'SYNavigation/Classes/**/*.{swift}'
 s.requires_arc = true
 
 end

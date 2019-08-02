@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		172668316CACB0025CE8B3FD /* Pods_SYNavigation_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SYNavigation_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		214B68E12D4A1350FF5D0C84 /* SYNavigation.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SYNavigation.podspec; path = ../SYNavigation.podspec; sourceTree = "<group>"; };
+		214B68E12D4A1350FF5D0C84 /* SYNavigation.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SYNavigation.podspec; path = ../SYNavigation.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		32359F63C4155403686EFD04 /* Pods-SYNavigation_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SYNavigation_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SYNavigation_Tests/Pods-SYNavigation_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		5E00C8080496F569DA3AF1B4 /* Pods-SYNavigation_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SYNavigation_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-SYNavigation_Tests/Pods-SYNavigation_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* SYNavigation_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SYNavigation_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
