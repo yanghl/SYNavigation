@@ -20,5 +20,6 @@ s.source           = { :git => 'https://github.com/yanghl/SYNavigation.git', :ta
 s.ios.deployment_target = '9.0'
 s.source_files = 'SYNavigation/Classes/**/*.{swift}'
 s.requires_arc = true
+s.swift_version = '4.0'
 
 end
