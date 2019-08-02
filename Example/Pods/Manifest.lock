@@ -1,0 +1,16 @@
+PODS:
+  - SYNavigation (1.0.0)
+
+DEPENDENCIES:
+  - SYNavigation (from `../`)
+
+EXTERNAL SOURCES:
+  SYNavigation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SYNavigation: c457f41aea6ca1016b492c3ccd9f990fdb969240
+
+PODFILE CHECKSUM: b4824d1784c449673e05711bd086e48347153848
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,9 @@
+use_frameworks!
+
+target 'SYNavigation_Example' do
+  pod 'SYNavigation', :path => '../'
+
+  target 'SYNavigation_Tests' do
+    inherit! :search_paths
+  end
+end
