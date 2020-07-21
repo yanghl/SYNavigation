@@ -1,5 +1,5 @@
 PODS:
-  - SYNavigation (1.0.0)
+  - SYNavigation (1.0.1)
 
 DEPENDENCIES:
   - SYNavigation (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SYNavigation: 3f621ac9783862bd41ffd1cadcb5ebecf67d07cc
+  SYNavigation: 03e3648e3b900ae5b1e228508db4e7b78a40a139
 
 PODFILE CHECKSUM: b4824d1784c449673e05711bd086e48347153848
 

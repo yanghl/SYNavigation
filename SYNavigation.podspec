@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
 s.name             = 'SYNavigation'
-s.version          = '1.0.1'
+s.version          = '1.0.2'
 s.summary          = '一个轻量级的新闻导航容器'
 
 s.description      = <<-DESC
@@ -20,6 +20,6 @@ s.source           = { :git => 'https://github.com/yanghl/SYNavigation.git', :ta
 s.ios.deployment_target = '9.0'
 s.source_files = 'SYNavigation/Classes/**/*.{swift}'
 s.requires_arc = true
-s.swift_version = '5.0'
+s.swift_version = '4.0'
 
 end
